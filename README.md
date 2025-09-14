@@ -39,8 +39,6 @@ Este projeto demonstra a criação de uma API REST para cadastro e consulta de c
 
 ![Diagrama do Modelo](docs/spring_hibernate.png)
 
-*(Adicione a imagem do diagrama na pasta docs e atualize o caminho acima)*
-
 ## Observações
 - O projeto utiliza anotações do Jackson para evitar referência cíclica na serialização das entidades.
 - O método `toString()` da entidade Carro exibe os dados do carro e do dono.
