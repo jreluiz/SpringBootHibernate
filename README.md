@@ -35,7 +35,7 @@ Este projeto demonstra a criação de uma API REST para cadastro e consulta de c
 - `GET /carros/{id}` — Busca carro por id
 - `GET /carros/buscar?nome=Fusca` — Busca carro por nome
 
-## Imagem do Diagrama
+## Diagrama
 
 ![Diagrama do Modelo](docs/spring_hibernate.png)
 
